@@ -13,7 +13,7 @@ It implements the [Stellar Consensus Protocol](https://github.com/stellar/stella
 It is written in C++17 and runs on Linux, OSX and Windows.
 Learn more by reading the [overview document](https://github.com/stellar/stellar-core/blob/master/docs/readme.md).
 
-## Documentation
+# Documentation
 
 Documentation of the code's layout and abstractions, as well as for the
 functionality available, can be found in
